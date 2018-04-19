@@ -9,7 +9,7 @@
   REST API and Backend service to Trello tasks app using  Gradle configuration for building, testing and running the application.
   
   
-  ##### Technology stack on the server side. 
+  #### Technology stack on the server side. 
 
   * Java 8
   * Spring Boot 2.0
@@ -20,23 +20,33 @@
   * Lombok
   * SQL
   
+  *The application is compatible with MySQL and PostgreSQL databases.*
+  
+  ###### Testing
+  
   Unit Testing and Mocking written using Mockito and JUnit. The result of the coverage shows 85% classes coverage in code.
+
+ Class | Method | Line
+ --- | --- | ---
+ 85% | 80% | 74%   
   
+  Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers.
+    
+  Bash scripts for automatically building and starting applications. Besides generating files like war or jar.
   
-  Monitoring and Metrics with Actuator and Swagger.
-  
-  
-  ##### Technology stack on the client side. 
+  #### Technology stack on the client side. 
   
   * HTML5
   * CSS3
   * jQuery
+  * Thymeleaf
 
   Implementation and support for the Thymeleaf template engine, to generate Web pages on the server side.
   
-  ##### Ready to go into production:
+  #### Ready to go into production:
   
   * Builds a standard WAR file or an executable JAR file
-  * Support for Heroku cloud provider. 
+  * Monitoring and Metrics with Actuator and Swagger
+  * Support for Heroku cloud provider
 
-  [Demo on  Heroku](https://lit-shore-95037.herokuapp.com/)
+  [Demo on Heroku](https://lit-shore-95037.herokuapp.com/)
