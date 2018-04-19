@@ -1,8 +1,9 @@
 # REST Tasks Application
 
-![Java 8](https://img.shields.io/badge/Java%20SE-8-green.svg)
-![SpringBoot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-green.svg)
-![Lombok](https://img.shields.io/badge/Lombok-1.16-green.svg)
+![Java 8](https://img.shields.io/badge/Java%20SE-8-blue.svg)
+![SpringBoot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-blue.svg)
+![Spring JPA Hibernate](https://img.shields.io/badge/Spring%20JPA-hibernate-blue.svg)
+![Lombok](https://img.shields.io/badge/Lombok-1.16-blue.svg)
 ![Swagger valid](https://img.shields.io/badge/Swagger-valid-green.svg)
 ![TDD](https://img.shields.io/badge/Coverage-85%25-green.svg)
   
@@ -34,18 +35,16 @@
   Implementation and support for the Thymeleaf template engine, to generate Web pages on the server side.
   
  #### Testing
-  
-  Unit Testing and Mocking written using Mockito and JUnit. 
-  
+    
   The result of the coverage shows 85% classes coverage in code.
 
  Class | Method | Line
  --- | --- | ---
  85% | 80% | 74%   
   
-  Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers.
-    
-  Bash scripts for automatically building and starting applications. Besides generating files like war or jar.
+  * Unit Testing and Mocking written using Mockito and JUnit. 
+  * Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers.
+  * Bash scripts for automatically building and starting applications. Besides generating files like war or jar.
   
   
   #### Ready to go into production:
@@ -54,4 +53,6 @@
   * Monitoring and Metrics with Actuator and Swagger
   * Support for Heroku cloud provider
 
-  [Demo on Heroku](https://lit-shore-95037.herokuapp.com/)
+  #### Run App
+
+ See [demo on Heroku](https://lit-shore-95037.herokuapp.com/)
