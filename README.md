@@ -59,4 +59,4 @@
  
  ---
 
-See also abut [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) on Wiki
+See also about [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) on Wiki
