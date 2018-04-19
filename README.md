@@ -2,7 +2,7 @@
 
 ![Java 8](https://img.shields.io/badge/Java%20SE-8-blue.svg)
 ![SpringBoot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-blue.svg)
-![Spring JPA Hibernate](https://img.shields.io/badge/Spring%20JPA-hibernate-blue.svg)
+![Spring JPA Hibernate](https://img.shields.io/badge/Spring%20JPA-Hibernate-blue.svg)
 ![Lombok](https://img.shields.io/badge/Lombok-1.16-blue.svg)
 ![Swagger valid](https://img.shields.io/badge/Swagger-valid-green.svg)
 ![TDD](https://img.shields.io/badge/Coverage-85%25-green.svg)
@@ -42,9 +42,9 @@
  --- | --- | ---
  85% | 80% | 74%   
   
-  * Unit Testing and Mocking written using Mockito and JUnit. 
-  * Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers.
-  * Bash scripts for automatically building and starting applications. Besides generating files like war or jar.
+  * Unit Testing and Mocking written using Mockito and JUnit
+  * Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers
+  * Bash scripts for automatically building and starting applications. Besides generating files like war or jar
   
   
   #### Ready to go into production:
@@ -56,3 +56,7 @@
   #### Run App
 
  See [demo on Heroku](https://lit-shore-95037.herokuapp.com/)
+ 
+ ---
+
+See also abut [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) on Wiki
