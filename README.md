@@ -7,7 +7,7 @@
 ![Swagger valid](https://img.shields.io/badge/Swagger-valid-green.svg)
 ![TDD](https://img.shields.io/badge/Coverage-85%25-green.svg)
   
-  REST API and Backend service to Trello tasks app using  Gradle configuration for building, testing and running the application. A personalized task list app with the ability to export to Trello.
+  REST API and Backend service to Trello tasks app using  Gradle configuration for building, testing and running the application. A personalized task list app with the ability to export to Trello.Sends reminders to the email address according to the scheduled schedule. When the task was added to the list and / or how many left to do at any interval, relative to the Cron configuration.
   
   The application is based on [Richardson maturity model](https://martinfowler.com/articles/richardsonMaturityModel.html). This is a model developed by Leonard Richardson, who describes how to design REST API systems.
   
@@ -41,7 +41,8 @@
  Class | Method | Line
  --- | --- | ---
  85% | 80% | 74%   
-  
+ <br/>
+ 
   * Unit Testing and Mocking written using Mockito and JUnit
   * Selenium WebDriver and XPath were used for Web Integration Testing in Chrome and Firefox browsers
   * Bash scripts for automatically building and starting applications. Besides generating files like war or jar
@@ -60,3 +61,5 @@
  ---
 
 See also about [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) on Wiki
+
+An article on: [What is REST ?](https://github.com/jszlenk/Rest-Tasks-Application/docs/pl/REST.md) in Polish
