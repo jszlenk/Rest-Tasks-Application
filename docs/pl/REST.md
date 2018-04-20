@@ -16,7 +16,7 @@ Poziom 0 mówi o tym, że aplikacja REST jest oparta na protokole HTTP. Komunika
 
 #### Poziom 1
 
-Aplikacje operują na zasobach. Przetwarzają, warunkują tak udostępnią zadeklarowane zasoby. W praktyce wszystkie aplikacje służą do pobierania, modyfikowania i zapisywania zasobów. 
+Aplikacje operują na zasobach. Przetwarzają, warunkują i udostępnią zadeklarowane zasoby. W praktyce wszystkie służą do pobierania, modyfikowania i zapisywania zasobów. 
 Poziom 1 mówi o nadawaniu odpowiedniej hierarchii zasobom aplikacji. Kluczem jest odpowiednie nazywanie adresów URL do zasobów aplikacji, tak aby było to zrozumiałe i czyste.
 
 #### Poziom 2
