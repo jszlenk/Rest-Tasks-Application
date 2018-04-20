@@ -1,7 +1,7 @@
 # Czym jest REST ?
 
 >Representational State Transfer (REST, ang. zmiana stanu poprzez reprezentacje) – styl architektury oprogramowania wywiedziony z doświadczeń przy pisaniu specyfikacji protokołu HTTP 
-dla systemów rozproszonych. REST wykorzystuje m.in. jednorodny interfejs, bezstanową komunikację, zasoby, reprezentacje, hipermedia, HATEOAS. - wiki
+dla systemów rozproszonych. REST wykorzystuje m.in. jednorodny interfejs, bezstanową komunikację, zasoby, reprezentacje, hipermedia, HATEOAS. [wikipedia]
 
 ### Richardson maturity model
 
