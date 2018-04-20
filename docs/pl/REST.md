@@ -17,7 +17,7 @@ Poziom 0 mówi o tym, że aplikacja REST jest oparta na protokole HTTP. Komunika
 #### Poziom 1
 
 Aplikacje operują na zasobach. Przetwarzają, warunkują i udostępnią zadeklarowane zasoby. W praktyce wszystkie służą do pobierania, modyfikowania i zapisywania zasobów. 
-Poziom 1 mówi o nadawaniu odpowiedniej hierarchii zasobom aplikacji. Kluczem jest odpowiednie nazywanie adresów URL do zasobów aplikacji, tak aby było to zrozumiałe i czyste.
+Poziom 1 mówi o nadawaniu odpowiedniej hierarchii zasobom aplikacji. Kluczem jest odpowiednie nazywanie adresów URL do zasobów, tak aby było to zrozumiałe i czyste.
 
 #### Poziom 2
 
@@ -27,7 +27,7 @@ Metody HTTP służą do celów programistycznych. Dzięki nim wiemy, do czego s�
 #### Poziom 3
 
 Jest to poziom, którego właściwe zastosowanie skupia się na wskazaniu kierunku do innych endpointów aplikacji. 
-Tak, aby aplikacja umożliwiała pobieranie zasobów, które udostępnia poprzez API.
+Tak, aby umożliwiała pobieranie zasobów, które udostępnia poprzez API.
 
 ---
 Back to the [ main project ](https://github.com/jszlenk/Rest-Tasks-Application)
