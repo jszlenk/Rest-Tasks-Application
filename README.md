@@ -7,11 +7,13 @@
 ![Swagger valid](https://img.shields.io/badge/Swagger-valid-green.svg)
 ![TDD](https://img.shields.io/badge/Coverage-85%25-green.svg)
   
-  REST API and Backend service to Trello tasks app using  Gradle configuration for building, testing and running the application. A personalized task list app with the ability to export to Trello.Sends reminders to the email address according to the scheduled schedule. When the task was added to the list and / or how many left to do at any interval, relative to the Cron configuration.
+  REST API and Backend service to Trello tasks app using  Gradle configuration for building, testing and running the application. 
   
-  The application is based on [Richardson maturity model](https://martinfowler.com/articles/richardsonMaturityModel.html). This is a model developed by Leonard Richardson, who describes how to design REST API systems.
+  A personalized task list app with the ability to export to Trello. Sends reminders to the email address according to the schedule. When the task was added to the list and how many left to do at any interval, relative to the Cron configuration.
   
-  #### Technology stack on the server side. 
+  The application is based on **[Richardson maturity model](https://martinfowler.com/articles/richardsonMaturityModel.html)**. This is a model developed by Leonard Richardson, who describes how to design REST API systems.
+  
+  ### Technology stack on the server side. 
 
   * Java 8
   * Spring Boot 2.0
@@ -25,7 +27,7 @@
   
   *The application is compatible with MySQL and PostgreSQL databases.*
   
-  #### Technology stack on the client side. 
+  ### Technology stack on the client side. 
   
   * HTML5
   * CSS3
@@ -34,7 +36,7 @@
 
   Implementation and support for the Thymeleaf template engine, to generate Web pages on the server side.
   
- #### Testing
+ ### Testing
     
   The result of the coverage shows 85% classes coverage in code.
 
@@ -48,18 +50,18 @@
   * Bash scripts for automatically building and starting applications. Besides generating files like war or jar
   
   
-  #### Ready to go into production:
+  ### Ready to go into production:
   
   * Builds a standard WAR file or an executable JAR file
   * Monitoring and Metrics with Actuator and Swagger
   * Support for Heroku cloud provider
 
-  #### Run App
+  ### Run App
 
- See [demo on Heroku](https://lit-shore-95037.herokuapp.com/)
+ :warning: See **[demo on Heroku](https://lit-shore-95037.herokuapp.com/)**
  
  ---
 
-See also about [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) on Wiki
+See also about **[REST](https://en.wikipedia.org/wiki/Representational_state_transfer)** on Wiki
 
-An article on: [What is REST ?](https://github.com/jszlenk/Rest-Tasks-Application/docs/pl/REST.md) in Polish
+An article on: **[What is REST ?](https://github.com/jszlenk/Rest-Tasks-Application/blob/master/docs/pl/REST.md)** in Polish
